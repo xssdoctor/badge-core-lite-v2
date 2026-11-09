@@ -1,0 +1,8 @@
+{
+  "name": "badge-core-lite",
+  "version": "1.0.0",
+  "description": "Small badge formatting core",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT"
+}
